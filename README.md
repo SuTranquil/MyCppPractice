@@ -50,6 +50,6 @@ This is where my journey into C++ programming began.
 10. 函数的声明
 ---
 ## Problem
-VScode无法进行多文件的编译
+VScode无法进行多文件的编译  
 0324要配置并学习使用CMake工具管理项目
    
