@@ -25,3 +25,31 @@ This is where my journey into C++ programming began.
 5. if语句
 6. 三目运算符
 7. while语句，水仙花数
+## 260323
+1. switch语句
+2. for循环
+3. break语句
+4. continue语句
+5. 数组及数组名,数组找最大，数组逆置
+6. 算法:冒泡排序
+    ```cpp
+    for (int i = 0; i < N - 1; i++)
+        for (int j = 0; j < N - i - 1; j++)
+        {
+            if (arr[j] > arr[j + 1])
+            {
+                temp = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = temp;
+            }
+        }
+    ```
+7. 二维数组
+8. 函数的定义和调用
+9. 值传递
+10. 函数的声明
+---
+## Problem
+VScode无法进行多文件的编译
+0324要配置并学习使用CMake工具管理项目
+   
