@@ -1,12 +1,14 @@
 # MyCppPractice
 This is where my journey into C++ programming began.
 ## 260320
+### 学习内容
 1. HelloWorld
 2. 注释
 3. 变量
 4. 常量
 5. c++关键字
 ## 260321
+### 学习内容
 1. 标识符命名规则
 2. 整型
 3. sizeof关键字
@@ -18,6 +20,7 @@ This is where my journey into C++ programming began.
 9. 数据的输入(cin)
 10. 算数运算符
 ## 260322
+### 学习内容
 1. 取模%(余数不能为0,小数不能取余)
 2. 递增递减
 3. 赋值、比较运算符
@@ -26,6 +29,7 @@ This is where my journey into C++ programming began.
 6. 三目运算符
 7. while语句，水仙花数
 ## 260323
+### 学习内容
 1. switch语句
 2. for循环
 3. break语句
@@ -48,8 +52,12 @@ This is where my journey into C++ programming began.
 8. 函数的定义和调用
 9. 值传递
 10. 函数的声明
----
-## Problem
+### Problem0323
 VScode无法进行多文件的编译  
 0324要配置并学习使用CMake工具管理项目
-   
+## 260324
+### 学习内容
+1. 解决VScode多文件运行、调试问题
+2. 学习CMake的简单使用
+3. 完成简单的CMakeLists.txt模板文件编写
+4. 完成CMake项目中launch.json和tasks.json模板文件的编写
