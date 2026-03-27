@@ -13,7 +13,7 @@ set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)
 # 添加头文件目录
 include_directories(include)
 
-add_executable(mymain src/main.cpp src/p13_swap.cpp)
+add_executable(mymain src/p14_main.cpp src/p13_swap.cpp)
 
 # cd build
 # cmake ..
