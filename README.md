@@ -1,14 +1,12 @@
 # MyCppPractice
 This is where my journey into C++ programming began.
 ## 260320
-### 学习内容
 1. HelloWorld
 2. 注释
 3. 变量
 4. 常量
 5. c++关键字
 ## 260321
-### 学习内容
 1. 标识符命名规则
 2. 整型
 3. sizeof关键字
@@ -20,7 +18,6 @@ This is where my journey into C++ programming began.
 9. 数据的输入(cin)
 10. 算数运算符
 ## 260322
-### 学习内容
 1. 取模%(余数不能为0,小数不能取余)
 2. 递增递减
 3. 赋值、比较运算符
@@ -29,7 +26,6 @@ This is where my journey into C++ programming began.
 6. 三目运算符
 7. while语句，水仙花数
 ## 260323
-### 学习内容
 1. switch语句
 2. for循环
 3. break语句
@@ -52,23 +48,22 @@ This is where my journey into C++ programming began.
 8. 函数的定义和调用
 9. 值传递
 10. 函数的声明
-### Problem0323
+
+## *Problem0323*
 VScode无法进行多文件的编译  
 0324要配置并学习使用CMake工具管理项目
+
 ## 260324
-### 学习内容
 1. 解决VScode多文件运行、调试问题
 2. 学习CMake的简单使用
 3. 完成简单的CMakeLists.txt模板文件编写
 4. 完成CMake项目中launch.json和tasks.json模板文件的编写
 ## 260325
-### 学习内容
 1. 指针的使用
    空指针、野指针、地址传递(**数组名+[]传递默认传递地址**)、const修饰指针的3种情况
 2. 结构体使用
    定义、3种创建方法、结构体成员.引用、结构体指针->引用
 ## 260326
-### 学习内容
 1. 全局区、代码区，栈区、堆区
 2. 堆区手动管理数据：new delete delete[]
 3. 引用与引用传递
@@ -76,8 +71,16 @@ VScode无法进行多文件的编译
 5. 函数重载reload
 6. 类的定义和基础使用，类成员、类方法
 ## 260327
-### 学习内容
 1. 封装中类的访问权限
 2. class和struct的区别
 3. 案例1：立方体类Cube
 4. 案例2：点与圆的关系
+## 260328
+1. 类中的构造函数、析构函数、重载、拷贝构造函数
+2. 列表化构造函数
+3. static在类中的使用
+4. 类中属性、方法的保存方式，空对象占1字节
+5. 类中this指针的2个作用
+6. 类的空指针调用类方法、
+7. const在类中的使用：常函数与常对象实例
+8. 友元：全局函数、类、类方法作类的友元
